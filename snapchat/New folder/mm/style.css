@@ -1,0 +1,24 @@
+ul{
+    background-color: red; 
+    text-shadow:10 px 10px 10px black ;
+    width: 100px;
+    height: 100px;
+
+}
+li{
+    color: white;
+    text-decoration-line: underline;
+    text-shadow:3px 3px 3px black;
+    
+}
+ol{
+    background-color: purple;
+    width: 100px;
+    height: 100px;
+}
+div{
+    width: 500px;
+    height: 460px;
+    border-radius: 70%;
+    border: 1px solid black;
+}
